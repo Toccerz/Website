@@ -29,7 +29,8 @@ input[type=submit]
   font-family: fantasy;
   font-size: 30px;
   padding-left: 1100;
-  padding-top: 100
+  padding-top: 100;
+  position: absolute;
   }
 
 .spec-para{padding-left: 1100;
@@ -90,10 +91,12 @@ nav {
   .feat-h2{
   font-size: 30px;
   font-family: Fantasy;
-  text-align: center;}
+  text-align: center;
+  positon: absolute;}
 
 .guitar-vid{
   text-align: center;
+  position: absolute;
   }
 .price-h2{font-size:30px;
 font-family: Fantasy;
@@ -127,6 +130,7 @@ padding-top: 50px;}
 .op-list{font-family: fantasy;
 list-style-type: none;
 padding-left: 400;
+position: absolute;
 }
 
 .cost{
@@ -134,7 +138,8 @@ padding-left: 400;
   padding-left: 150;
   padding-bottom: 30;
 font-size: 25px;
-float: left; }
+float: left;
+position: absolute;}
 
 ul{list-style-type: none;
 font-family: fantasy;}
